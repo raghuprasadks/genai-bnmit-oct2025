@@ -1,3 +1,5 @@
 # Ignore venv created inside the programs folder
 /programs/chatbot/venv/
 /programs/chatbot/.env/
+.env
+**/.env
