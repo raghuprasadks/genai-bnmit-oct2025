@@ -1,3 +1,4 @@
+#pip install cohere
 import cohere
 
 co = cohere.ClientV2(api_key="7LdS9Y2ZgHtyM8DAXfiRTIWGZpJuOpvkytE2Qhw3")

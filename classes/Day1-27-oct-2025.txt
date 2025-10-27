@@ -1,6 +1,5 @@
 AI
 1956
-
 Data
 Computing
 open source software/applications
@@ -141,6 +140,35 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 9. In terminal 
 pip install cohere
 10. python 1-cohere-gettingstarted.py
+
+www.kaushalya.tech
+git
+repositories
+genai-bnmit-oct2025
+programs
+chatbot
+download program 2 and copy to the folder
+
+pip install python-dotenv
+
+download program 3 and copy to the folder
+pip install streamlit
+streamlit run 3-cohere-streamlit.py
+
+deploy on huggingface
+
+amazon of language models
+
+sign up with
+https://huggingface.co/
+
+https://huggingface.co/tabularisai/multilingual-sentiment-analysis
+
+
+
+
+
+
 
 
 

@@ -1,3 +1,4 @@
+#pip install streamlit cohere python-dotenv
 import streamlit as st
 import cohere
 from dotenv import load_dotenv
