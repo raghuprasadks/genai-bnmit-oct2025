@@ -1,0 +1,164 @@
+AI
+1956
+
+Data
+Computing
+open source software/applications
+libraries/community
+
+AI 
+Machine Learning (ML)
+Supervised - classification/regression
+Labelled data
+input - process -output
+Unsupervised - clustering
+reinforcement
+
+Natural Language Processing (NLP)
+
+Deep Learning
+Neural Network
+ANN - Artificial Neural Network - regression/classification
+CNN - Convolutional Neural Network - image
+RNN - Recurrent Neural Network
+sequential data - time series data
+Generative AI
+next word generation
+generate a image
+generate video/audio
+
+Language Model
+Large Language Model
+
+Doctor says eating apple every day keeps you healthy
+Today's apple price has come down
+Apple is expected to grow 10 % year on year
+
+Pre-requisites
+1. Python
+2. ML algorithms
+3. Deep Learning
+
+Large Language Models (LLM's)
+
+
+which are the popular large language models - prompt
+
+step 1 - tokenization
+which
+are
+the
+popular
+large
+language
+model
+
+step 2 - token id
+
+which -1
+are -2
+the - 3
+popular - 4
+large - 5
+language - 6
+model - 7
+
+step 3 - embedding
+converting word into a vector
+which = [0.5,0.7,1.6]
+
+Women
+Queen
+King
+Men
+
+step 4 - Attention block
+context embedding
+
+Attention is all you need
+
+step 5 - neural network
+predicting the next word
+Simulation
+https://poloclub.github.io/transformer-explainer/
+Simulation of neural network
+https://playground.tensorflow.org/
+
+genai
+tools
+agent
+agentic ai
+agi
+step 1:
+https://cohere.com/
+step 2 : Sign up and login
+step 3 : trial api key
+copy 
+7LdS9Y2ZgHtyM8DAXfiRTIWGZpJuOpvkytE2Qhw3
+step 4:
+click on play ground
+
+prompt engineering
+
+Topics for Generative AI for 5 day workshop
+
+zero shot
+what is llm
+compare various llms
+
+
+I am conducting a 5 days of workshop on Generative AI and Agentic AI. Can you come up with topics for each session. Every day i will be taking six hours session. Note that people from different backgrounds are attending this session
+
+I am a medical professional.
+Explain me llm from my profession
+perspective
+
+add use cases related to healthcare and logistics
+
+can you suggest some projects which can be developed at the end of the workshop
+
+
+can you help me in generating code for Patient Symptom Checker Bot
+
+steps
+1. create folder structure
+workshop->programs->chatbot
+2. check python version
+open terminal from chatbot folder
+in the terminal
+python --version
+3. open chatbot folder in visual studio code
+4. create virtual environment
+click on view->terminal
+5.create virtual environment 
+python -m venv venv
+6. activate virtual environment
+.\venv\Scripts\activate
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+7. create 1-cohere-gettingstarted.py
+8. replace api key with your api key
+9. In terminal 
+pip install cohere
+10. python 1-cohere-gettingstarted.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

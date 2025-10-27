@@ -1,0 +1,3 @@
+# Ignore venv created inside the programs folder
+/programs/venv/
+
