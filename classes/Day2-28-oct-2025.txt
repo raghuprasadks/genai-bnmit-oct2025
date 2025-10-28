@@ -1,0 +1,72 @@
+Agenda:
+1. Recap
+AI - 
+ML - Supervised,Unsupervised,reinforcement
+DL - Neural Network
+86 billon
+ANN
+CNN
+RNN
+Natural Language Processing (NLP)
+2017 - Attention is all you need
+transformer
+Generative AI
+text
+summarization
+image,audio,video generation
+Open AI - GPT3
+chatgpt
+Large Language Model (LLM)
+Prompt engineering
+cohere 
+our own chatbot
+command line
+web chatbot - streamlit
+
+2. Huggingface
+models,datasets,spacers
+models
+tasks
+library
+inference providers
+spacers->language translation->nllb
+https://huggingface.co/spaces/sakibbd/Virtual-DressUp
+
+https://huggingface.co/
+3. Retrieval Augmented Generation (RAG)
+4. Huggingface transformers
+different tasks
+
+
+kaushalya.tech
+
+pip install -r .\requirements.txt
+
+streamlit run .\3-cohere-streamlit.py
+
+click on spacers in hugginggface
+new spacers
+docker
+streamlit
+create
+
+
+RAG - Retrieval Augmented Generation
+
+https://www.trychroma.com/
+
+steps:
+1. create rag folder
+2. copy files from the git
+https://github.com/raghuprasadks/genai-bnmit-oct2025/tree/main/programs/rag
+3. create virtual environment inside rag folder
+python -m venv venv
+4. activate virtual environment
+./venv/Scripts/activate
+5. Install libraries
+pip install chromadb cohere pypdf2
+6. run one by one program
+Assignment
+1. Create RAG based chatbot
+
+
